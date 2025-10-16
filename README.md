@@ -11,7 +11,9 @@ Supports multiple Reed Expo trade fair websites with a consistent HTML structure
 
 ## 🔎 Testing Exhibitor List URLs for FREE
 
-Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
+
+- Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
 
 
 ## 👇 Check My Other Exhibitor List Scrapers
@@ -28,18 +30,20 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
+- [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
+
+- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+
+- [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
-This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Reed Expo exhibitor lists below.
+- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Reed Expo exhibitor lists below.
 
-### ❓ How to identify a supported website:
+- Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-✅ Check example event website URL to see the website type/structure.
-
-- An example event website URL: https://west.visionexpo.com/en-us/expo-hall/exhibitor-list.html#/
-
-✅ Exhibitor listing page format should be the same as the sample websites below.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
 
 
 ## 🌐 Supported Reed Expo Events (Exhibitor Lists)
@@ -179,3 +183,7 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [World Future Energy Summit Exhibitor List](https://www.worldfutureenergysummit.com/en-gb/exhibitor-directory.html#/)
 
 - [ibtm Americas Exhibitor List](https://www.ibtmamericas.com/en-gb/exhibitors-directory.html#/)
+
+- [Bar Convent Berlin Exhibitor List](https://www.barconvent.com/en-gb/exhibitor-directory.html#/)
+
+- [Big Data London Exhibitor List](https://www.bigdataldn.com/en-gb/exhibitor-list.html#/)
