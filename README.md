@@ -66,7 +66,7 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 
 ## 🌐 Supported Reed Expo Events (Exhibitor Lists)
 
-**Note: The following list includes Reed Expo exhibitor directory URLs that have been tested so far. Other Reed Expo or different events with the same website structure may also be supported.**
+**Note: *The following list includes Reed Expo exhibitor directory URLs that have been tested so far. Other Reed Expo or different events with the same website structure may also be supported*.**
 
 - [Bex Asia Exhibitor List – bex-asia.com](https://bex-asia.com/en-gb/Visit/exhibitor-directory.html#/)
 
