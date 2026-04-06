@@ -26,15 +26,15 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
@@ -54,6 +54,8 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
 
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -67,6 +69,10 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 ## 🌐 Supported Reed Expo Events (Exhibitor Lists)
 
 **Note: *The following list includes Reed Expo exhibitor directory URLs that have been tested so far. Other Reed Expo or different events with the same website structure may also be supported*.**
+
+- [Mostra Convegno Expocomfort (MCE) Exhibitor List – mcexpocomfort.it](https://www.mcexpocomfort.it/en-gb/exhibitor-directory.html#/)
+
+- [ILTM Asia Pacific Exhibitor List – iltm.com/asia-pacific](https://www.iltm.com/asia-pacific/en-gb/exhibitor-directory.html#/)
 
 - [Bex Asia Exhibitor List – bex-asia.com](https://bex-asia.com/en-gb/Visit/exhibitor-directory.html#/)
 
@@ -148,7 +154,7 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 
 - [inter airport europe Exhibitor List – interairporteurope.com](https://interairporteurope.com/en-gb/exhibitor-list.html#/)
 
-- [ILTM North America Exhibitor List – iltm.com](https://iltm.com/north-america/en-gb/exhibitor-directory.html#/)
+- [ILTM North America Exhibitor List – iltm.com/north-america](https://iltm.com/north-america/en-gb/exhibitor-directory.html#/)
 
 - [pollutec Exhibitor List – pollutec.com](https://pollutec.com/en-gb/who-is-coming/liste-exposants.html#/)
 
@@ -196,7 +202,7 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 
 - [Metalex Exhibitor List – metalex.co.th](https://metalex.co.th/en-gb/visitor-info/search-for-exhibitors.html#/)
 
-- [ILTM Cannes Exhibitor List – iltm.com](https://iltm.com/cannes/en-gb/exhibitor-directory.html#/)
+- [ILTM Cannes Exhibitor List – iltm.com/cannes](https://iltm.com/cannes/en-gb/exhibitor-directory.html#/)
 
 - [World Future Energy Summit Exhibitor List – worldfutureenergysummit.com](https://worldfutureenergysummit.com/en-gb/exhibitor-directory.html#/)
 
