@@ -56,6 +56,10 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 
 - [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
 
+- [Newfront Exhibitor List Scraper](https://apify.com/skython/newfront-exhibitor-list-scraper)
+
+- [Goeshow Exhibitor List Scraper](https://apify.com/skython/goeshow-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -69,6 +73,14 @@ Supports multiple *Reed Expo** trade fair websites with a consistent HTML struct
 ## 🌐 Supported Reed Expo Events (Exhibitor Lists)
 
 **Note: *The following list includes Reed Expo exhibitor directory URLs that have been tested so far. Other Reed Expo or different events with the same website structure may also be supported*.**
+
+- [Aluminium Global Exhibition Exhibitor List – aluminium-exhibition.com](https://www.aluminium-exhibition.com/germany/en-gb/exhibitor-directory.html#/)
+
+- [SITL Exhibitor List – sitl.eu](https://www.sitl.eu/en-gb/who-is-coming/exhibitors-list.html#/)
+
+- [JCK LasVegas Exhibitor List – lasvegas.jckonline.com](https://lasvegas.jckonline.com/en-us/about/exhibitor-directory.html#/)
+
+- [World Hydrogen Summit & Exhibition Exhibitor List – world-hydrogen-summit.com](https://www.world-hydrogen-summit.com/world/en-gb/exhibitor-directory.html#/)
 
 - [Mostra Convegno Expocomfort (MCE) Exhibitor List – mcexpocomfort.it](https://www.mcexpocomfort.it/en-gb/exhibitor-directory.html#/)
 
